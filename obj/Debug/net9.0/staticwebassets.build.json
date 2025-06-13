@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "67nFviD6AMmQBHeHKsi/eRhdamLH9ezRyrYofw2sz9A=",
+  "Source": "AnnouncementApi",
+  "BasePath": "_content/AnnouncementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

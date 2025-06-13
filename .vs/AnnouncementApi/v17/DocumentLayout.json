@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Prog\\PreJob\\Announcements-task\\Tests\\AnnouncementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51B81B66-3430-4BBE-8D6E-119E9B6DE875}|AnnouncementApi.csproj|d:\\prog\\prejob\\announcements-task\\tests\\announcementapi\\announcementapi.tests\\announcementcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B81B66-3430-4BBE-8D6E-119E9B6DE875}|AnnouncementApi.csproj|solutionrelative:announcementapi.tests\\announcementcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B81B66-3430-4BBE-8D6E-119E9B6DE875}|AnnouncementApi.csproj|d:\\prog\\prejob\\announcements-task\\tests\\announcementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51B81B66-3430-4BBE-8D6E-119E9B6DE875}|AnnouncementApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B81B66-3430-4BBE-8D6E-119E9B6DE875}|AnnouncementApi.csproj|d:\\prog\\prejob\\announcements-task\\tests\\announcementapi\\data\\announcementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B81B66-3430-4BBE-8D6E-119E9B6DE875}|AnnouncementApi.csproj|solutionrelative:data\\announcementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B81B66-3430-4BBE-8D6E-119E9B6DE875}|AnnouncementApi.csproj|d:\\prog\\prejob\\announcements-task\\tests\\announcementapi\\controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B81B66-3430-4BBE-8D6E-119E9B6DE875}|AnnouncementApi.csproj|solutionrelative:controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnnouncementControllerTests.cs",
+              "DocumentMoniker": "D:\\Prog\\PreJob\\Announcements-task\\Tests\\AnnouncementApi\\AnnouncementApi.Tests\\AnnouncementControllerTests.cs",
+              "RelativeDocumentMoniker": "AnnouncementApi.Tests\\AnnouncementControllerTests.cs",
+              "ToolTip": "D:\\Prog\\PreJob\\Announcements-task\\Tests\\AnnouncementApi\\AnnouncementApi.Tests\\AnnouncementControllerTests.cs",
+              "RelativeToolTip": "AnnouncementApi.Tests\\AnnouncementControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:55:14.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnnouncementsController.cs",
+              "DocumentMoniker": "D:\\Prog\\PreJob\\Announcements-task\\Tests\\AnnouncementApi\\Controllers\\AnnouncementsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnnouncementsController.cs",
+              "ToolTip": "D:\\Prog\\PreJob\\Announcements-task\\Tests\\AnnouncementApi\\Controllers\\AnnouncementsController.cs",
+              "RelativeToolTip": "Controllers\\AnnouncementsController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswDwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:16:44.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Prog\\PreJob\\Announcements-task\\Tests\\AnnouncementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Prog\\PreJob\\Announcements-task\\Tests\\AnnouncementApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T14:02:05.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnnouncementDbContext.cs",
+              "DocumentMoniker": "D:\\Prog\\PreJob\\Announcements-task\\Tests\\AnnouncementApi\\Data\\AnnouncementDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AnnouncementDbContext.cs",
+              "ToolTip": "D:\\Prog\\PreJob\\Announcements-task\\Tests\\AnnouncementApi\\Data\\AnnouncementDbContext.cs",
+              "RelativeToolTip": "Data\\AnnouncementDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:05:04.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
